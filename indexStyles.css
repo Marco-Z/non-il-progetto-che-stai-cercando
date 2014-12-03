@@ -1,0 +1,280 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+#barraLaterale{
+    -webkit-animation: mymove 0.5s; /* Chrome, Safari, Opera */
+    animation: mymove 0.5s;
+	font-weight: bold;
+    //background-color: #f88d2f;
+    position: absolute;
+    top: 64;
+    left: 0;
+    bottom: 0;
+    width: 270px;
+    border-right: 1px solid #B9B9B9;
+    box-shadow: 0 0 10px gray;
+    background-image: linear-gradient(to bottom, #fac269, rgb(255, 222, 178));
+}
+/* animazione: Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {left: -200px;}
+    to {left: 0px;}
+}
+@keyframes mymove {
+    from {left: -200px;}
+    to {left: 0px;}
+}
+
+#menu{
+    font-weight: 700;
+    width: 100px;
+    color: #646464;
+}
+
+#menu a button{
+    background-color: inherit;
+    border: none;
+}
+
+#scrittaHome{
+    color: white;
+    margin-left: 5px;
+    position: relative;
+    top: -10px;
+    font-size: 15;
+}
+
+#menu:hover{
+    transform: scale(1.2) translate(5px);
+    font-weight: bold;
+    
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+}
+
+#barraUsername{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(to bottom, #ffb642, #f4981b);   
+    height: 35px;
+    padding: 15px;
+    border: 0;
+    box-shadow:0 0 15px #000;
+    //-webkit-box-shadow: 0px 3px 26px 0px #A09E9E;
+}
+
+#logo{
+    position: fixed;
+    right: 10px;
+    top: 8px;
+}
+
+#logo:hover{
+    transform: scale(1.2);
+    
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+}
+
+#ric:hover{
+    transform: scale(1.2);
+    
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+}
+
+#barraLateraleRicerca{
+    margin: 20px;
+    width: 230px;
+    height=100%;
+}
+
+#barraLateraleRicerca input{
+    position: relative;
+    top: -10px;
+    width: 170;
+}
+
+#barraLateraleTree{
+    padding-left: 10px;
+}
+
+.dipartimento{
+    padding: 20px;
+    display: none;
+}
+
+.edificio{
+    padding-left: 20px;
+    display: none;
+}
+
+.piano{
+    padding-left: 20px;
+}
+
+#barraLateraleTreeButton{
+    background-color: transparent;
+    height: 50px;
+    border: 0;
+    width: 100%;
+    text-align: left;
+    color:#3E3E3E;
+    font-weight:700;
+    -webkit-transition-duration: 0.1s;
+    -moz-transition-duration: 0.1s;
+    -ms-transition-duration: 0.1s;
+}
+
+#barraLateraleTreeButton:hover{
+    box-shadow:0 0 1px  black;
+    font-size: 1.2em;
+    -webkit-transition-duration: 0.1s;
+    -moz-transition-duration: 0.1s;
+    -ms-transition-duration: 0.1s;
+}
+
+#logoIniziale{
+    position: relative;
+    width: 40%;
+    left: 30%;
+}
+
+#corpoPrincipale{
+    position: absolute;
+    top: 70px;
+    left: 270px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    background-image: url(img/dipartimento1.jpg);
+    WebkitTransition = '0, 500ms ease-out';
+    background-size: cover;
+    padding: 30px;
+}
+
+#corpoDipartimento{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    background-image: url(img/dipartimento1.jpg);
+    WebkitTransition = '0, 500ms ease-out';
+    padding: 30px;
+    background-size: cover;
+    padding: 50px;
+}
+
+#corpoDipartimento img{
+    position: fixed;
+    top: 70px;
+    left: 270px;
+    right: 0;
+    bottom: 0;
+    height: 110%;
+}
+
+#corpoEdificio{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    background-image: url(img/dipartimento1.jpg);
+    WebkitTransition = '0, 500ms ease-out';
+    padding: 30px;
+    background-size: cover;
+    padding: 50px;
+}
+
+#corpoEdificio img{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+#corpoPiano {
+    text-align: center;
+    padding-left: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    background-size: cover;
+    padding: 50px;
+}
+
+#corpoAula
+{
+    text-align: center;
+    padding-left: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    background-size: cover;
+    padding: 50px;
+}
+
+#mappaNomi{
+    position: absolute;
+    top: 1;
+    left: 101;
+}
+
+#mappa{
+    position: absolute;
+    top: 1;
+    left: 101;
+}
+
+#corpoPiano svg{
+    position: absolute;
+    top: 1;
+    left: 101;
+}
+
+#svgColor polygon
+{
+    fill: #f5d60f;
+    stroke: black;
+}
+
+#svgClick polygon{
+    fill: transparent;
+}
+
+#titolo{
+    margin: 0;
+    padding: 0;
+}
+
+#goBack
+{
+    position: absolute;
+    top: 35;
+    right: 50;
+    font-size: 95%;
+    font-family: cursive;
+    background-image: linear-gradient(to bottom, #fac269, #f4981b);
+    box-shadow: 0 0 5px #000;
+    border: 1px solid transparent;
+    padding: 10px;
+    border-bottom-left-radius: 12;
+    border-bottom-right-radius: 12;
+    border-top-left-radius: 12;
+    border-top-right-radius: 12;
+}

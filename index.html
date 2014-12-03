@@ -1,0 +1,110 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title >Aule Libere</title>
+        <link href="indexStyles.css" rel="stylesheet">
+        <script src="indexScript.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
+        <link href="http://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
+        <link rel="icon" href="img/favicon.ico" >
+
+    </head>
+    <body>        
+        <div id="corpoPrincipale">
+            <div>
+                <img src="img/logo_unitn.png" width="200px" id="logoIniziale" style="padding-top: 30px;">
+            </div>
+        </div>
+        
+        <div id="barraLaterale">
+            <div id="barraLateraleRicerca">
+                <a onclick="ricercaAula(ricerca)">
+                    <img src="img/search.png" id="ric" alt="ricerca" width="30px">
+                </a>
+                <input type="text" id="ricerca" list="laule" autofocus placeholder="Cerca l'aula">
+               
+                <datalist id="laule">
+                    <option value="Aula Studio 1°piano">
+                    <option value="Aula Studio 2°piano">
+                    <option value="Aula PC 2°piano">
+                    <option value="A101">
+                    <option value="A102">
+                    <option value="A103">
+                    <option value="A104">
+                    <option value="A105">
+                    <option value="A106">
+                    <option value="A107">
+                    <option value="A108">
+                    <option value="A201">
+                    <option value="A202">
+                    <option value="A203">
+                    <option value="A204">
+                    <option value="A205">
+                    <option value="A206">
+                    <option value="A207">
+                    <option value="A208">
+                    <option value="A209">
+                    <option value="A210">
+                    <option value="A211">
+                    <option value="A212">
+                    <option value="A213">
+                    <option value="A214">
+                    <option value="A215">
+                    <option value="A216">
+                    <option value="A217">
+                    <option value="A218">
+                    <option value="A219">
+                    <option value="A220">
+                    <option value="A221">
+                    <option value="A222">
+                    <option value="A223">
+                    <option value="A224">
+                </datalist>
+            </div>
+            
+            
+            <div id="barraLateraleTree">
+                
+                <button id="barraLateraleTreeButton" onclick="show(dipartimento1); showElemento(dipartimento1)">Povo</button>
+                
+                <div class="dipartimento" id="dipartimento1">
+                    <button id="barraLateraleTreeButton" onclick="show(dipartimento1_ed1); showElemento(dipartimento1_ed1)">Biblioteca</button>
+                    
+                    <div class="edificio" id="dipartimento1_ed1">
+                    
+                        <div class="piano" id="dipartimento1_ed1_piano1">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed1_piano1)">Piano 1</button>
+                        </div>
+                        
+                        <div class="piano" id="dipartimento1_ed1_piano2">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed1_piano2)">Piano 2</button>
+                        </div>
+                    </div>
+                    
+                    <button id="barraLateraleTreeButton" onclick="show(dipartimento1_ed2); showElemento(dipartimento1_ed2)">Polo Ferrari</button>
+                    <div class="edificio" id="dipartimento1_ed2">    
+                        
+                        <div class="piano" id="dipartimento1_ed2_piano1">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed2_piano1)">Piano 1</button>
+                        </div>
+                        
+                        <div class="piano" id="dipartimento1_ed2_piano2">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed2_piano2)">Piano 2</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+        
+        <div id="barraUsername">
+            <div id="menu" onclick="displayMenu()">
+                <a><img src="img/menu_white.png" width="30px">
+                <button id="scrittaHome">Menu</button></a>
+            </div>
+            <img id="logo" src="img/icona_aranc_picc.png" onclick="showGuida()" width="50">
+        </div>
+        
+    </body>
+</html>

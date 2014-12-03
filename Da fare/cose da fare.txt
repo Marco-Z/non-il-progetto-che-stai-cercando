@@ -1,0 +1,2 @@
+- aggiungere una guida sul logo
+- mettere bottone di indietro nelle aule per non dover pgni volta cliccare su piano1 o piano 2
