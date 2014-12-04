@@ -1,3 +1,4 @@
+
 function show(padre){
     if (padre.offsetHeight>0){
         padre.style.display="none";
@@ -68,4 +69,13 @@ function party() {
     if (navigator.sayswho=='IE'){
         controller.buyDoge();  
     }
+}
+
+function invio(e){
+if (!e) e = window.event;
+    var keyCode = e.keyCode || e.which;
+    if (keyCode == '13'){
+    ricercaAula(ricerca);
+    }
+
 }

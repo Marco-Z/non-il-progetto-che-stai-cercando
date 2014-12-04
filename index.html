@@ -1,15 +1,17 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title >Aule Libere</title>
+        <title >ndo Studio</title>
         <link href="indexStyles.css" rel="stylesheet">
         <script src="indexScript.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+        <link href="jquery-ui.min.css" rel="stylesheet">
         <link href="http://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
         <link rel="icon" href="img/favicon.ico" >
     </head>
-    <body>        
+    <body>
         <div id="corpoPrincipale">
             <div>
                 <img src="img/logo_unitn.png" width="200px" id="logoIniziale" style="padding-top: 30px;">
@@ -19,47 +21,53 @@
         <div id="barraLaterale">
             <div id="barraLateraleRicerca">
                 <a onclick="ricercaAula(ricerca)">
-                    <img src="img/search.png" id="ric" alt="ricerca" width="30px">
+                    <img src="img/search.png" id="ric" alt="ricerca" width="45px">
                 </a>
-                <input type="text" id="ricerca" list="laule" autofocus placeholder="Cerca l'aula">
-               
-                <datalist id="laule">
-                    <option value="Aula Studio 1°piano">
-                    <option value="Aula Studio 2°piano">
-                    <option value="Aula PC 2°piano">
-                    <option value="A101">
-                    <option value="A102">
-                    <option value="A103">
-                    <option value="A104">
-                    <option value="A105">
-                    <option value="A106">
-                    <option value="A107">
-                    <option value="A108">
-                    <option value="A201">
-                    <option value="A202">
-                    <option value="A203">
-                    <option value="A204">
-                    <option value="A205">
-                    <option value="A206">
-                    <option value="A207">
-                    <option value="A208">
-                    <option value="A209">
-                    <option value="A210">
-                    <option value="A211">
-                    <option value="A212">
-                    <option value="A213">
-                    <option value="A214">
-                    <option value="A215">
-                    <option value="A216">
-                    <option value="A217">
-                    <option value="A218">
-                    <option value="A219">
-                    <option value="A220">
-                    <option value="A221">
-                    <option value="A222">
-                    <option value="A223">
-                    <option value="A224">
-                </datalist>
+                <input type="text" id="ricerca" autofocus placeholder="Cerca l'aula" onkeypress="invio(event)">
+               <script>
+                   $(function() {
+                    var availableTags = [
+                        "Aula Studio 1°piano"   ,
+                       "Aula Studio 2°piano"  ,
+                       "Aula PC 2°piano"   ,
+                       "A101"   ,
+                       "A102"   ,
+                       "A103"   ,
+                       "A104"   ,
+                       "A105"   ,
+                       "A106"   ,
+                       "A107"   ,
+                       "A108"   ,
+                       "A201"   ,
+                       "A202"   ,
+                       "A203"   ,
+                       "A204"   ,
+                       "A205"   ,
+                       "A206"   ,
+                       "A207"   ,
+                       "A208"   ,
+                       "A209"   ,
+                       "A210"   ,
+                       "A211"   ,
+                       "A212"   ,
+                       "A213"   ,
+                       "A214"   ,
+                       "A215"   ,
+                       "A216"   ,
+                       "A217"   ,
+                       "A218"   ,
+                       "A219"   ,
+                       "A220"   ,
+                       "A221"   ,
+                       "A222"   ,
+                       "A223"   ,
+                       "A224"   
+                        ];
+                    $( "#ricerca" ).autocomplete({
+                          source: availableTags
+                        });
+                    });
+                </script>
             </div>
             
             
@@ -99,11 +107,11 @@
         
         <div id="barraUsername">
             <div id="menu" onclick="displayMenu()">
-                <a><img src="img/menu_white.png" width="30px">
+                <a><img id="menuimg" src="img/menu_white.png" width="30px">
                 <button id="scrittaHome">Menu</button></a>
             </div>
              <script src="doge.js" type="text/javascript"></script>
-            <img id="logo" src="img/icona_aranc_picc.png" onclick="showGuida()" width="50" onmouseover="party();" onmouseout="controller.sellDoge();">
+            <img id="logo" src="img/help.png" onclick="showGuida()" width="50" onmouseover="party();" onmouseout="controller.sellDoge();">
         </div>
         
     </body>
