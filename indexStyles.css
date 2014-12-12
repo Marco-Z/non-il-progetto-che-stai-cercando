@@ -2,6 +2,11 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+
+:focus{
+outline: none;
+}
+
 #barraLaterale{
     -webkit-animation: mymove 0.5s; /* Chrome, Safari, Opera */
     animation: mymove 0.5s;
@@ -39,6 +44,7 @@
 }
 
 #scrittaHome{
+    cursor: pointer;
     color: white;
     margin-left: 5px;
     position: relative;
@@ -46,13 +52,17 @@
     font-size: 15;
 }
 
-#menu:hover{
-    transform: scale(1.2) translate(5px);
-    font-weight: bold;
-    
+#menuimg:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    /*font-weight: bold;*/  
     -webkit-transition-duration: 0.3s;
     -moz-transition-duration: 0.3s;
     -ms-transition-duration: 0.3s;
+}
+
+#menu:hover{
+    cursor: pointer;
 }
 
 #barraUsername{
@@ -69,26 +79,25 @@
 }
 
 #logo{
+    cursor: help;
     position: fixed;
     right: 10px;
     top: 8px;
 }
 
 #logo:hover{
-    transform: scale(1.2);
-    
+    transform: scale(1.15);
+    animation-direction: reverse;
+     
+    -moz-animation-direction: reverse;
+    -ms-animation-direction: reverse;
+    -webkit-animation-direction: reverse;
     -webkit-transition-duration: 0.3s;
     -moz-transition-duration: 0.3s;
     -ms-transition-duration: 0.3s;
 }
 
-#ric:hover{
-    transform: scale(1.2);
-    
-    -webkit-transition-duration: 0.3s;
-    -moz-transition-duration: 0.3s;
-    -ms-transition-duration: 0.3s;
-}
+
 
 #barraLateraleRicerca{
     margin: 20px;
@@ -133,13 +142,13 @@
     -ms-transition-duration: 0.1s;
 }
 
-#barraLateraleTreeButton:hover{
-    box-shadow:0 0 1px  black;
+/*#barraLateraleTreeButton:hover{
+    //box-shadow:0 0 1px  black;
     font-size: 1.2em;
     -webkit-transition-duration: 0.1s;
     -moz-transition-duration: 0.1s;
     -ms-transition-duration: 0.1s;
-}
+}*/
 
 #logoIniziale{
     position: relative;
