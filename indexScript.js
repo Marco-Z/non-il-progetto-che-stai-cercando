@@ -14,8 +14,12 @@ function showGuida(){
 
 function showElemento(elemento){
     var nome = elemento.getAttribute("id");
-    
-    $("#corpoPrincipale").load("piani/"+nome+".html");
+    if(!jQuery.browser.mobile){
+        $("#corpoPrincipale").load("piani/"+nome+".html");
+    }
+    else{
+        $("#corpoPrincipale").load("piani/"+nome+"m.html");
+    }
 }
 
 function cercaAula(luogo, aula){
