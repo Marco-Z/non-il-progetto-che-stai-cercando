@@ -2,6 +2,9 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+html{
+    background-image: url(img/dipartimento1.jpg);   
+}
 
 :focus{
 outline: none;
@@ -20,6 +23,7 @@ outline: none;
     border-right: 1px solid #B9B9B9;
     box-shadow: 0 0 10px gray;
     background-image: linear-gradient(to bottom, #fac269, rgb(255, 222, 178));
+    overflow-y: auto;
 }
 
 /* animazione: Chrome, Safari, Opera */
@@ -34,7 +38,7 @@ outline: none;
 
 #menu{
     font-weight: 700;
-    width: 100px;
+    width: 150px;
     color: #646464;
 }
 
@@ -48,8 +52,8 @@ outline: none;
     color: white;
     margin-left: 5px;
     position: relative;
-    top: -10px;
-    font-size: 15;
+    top: -5px;
+    font-size: 25px;
 }
 
 #menuimg:hover{
@@ -116,7 +120,7 @@ outline: none;
 }
 
 .dipartimento{
-    padding: 20px;
+    padding: 0 20px;
     display: none;
 }
 
@@ -136,6 +140,7 @@ outline: none;
     width: 100%;
     text-align: left;
     color:#3E3E3E;
+    font-size: 1em;
     font-weight:700;
     -webkit-transition-duration: 0.1s;
     -moz-transition-duration: 0.1s;
@@ -158,7 +163,7 @@ outline: none;
 
 #corpoPrincipale{
     position: absolute;
-    top: 70px;
+    top: 65px;
     left: 270px;
     right: 0;
     bottom: 0;
