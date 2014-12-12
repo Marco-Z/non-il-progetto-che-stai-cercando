@@ -1,0 +1,348 @@
+{ 09/12/2014    11.00 - 13.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    14.00 - 16.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    13.00 - 17.00     LD Elettronica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO)  }
+{ 10/12/2014    09.00 - 13.00     LD Elettronica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO)  }
+{ 11/12/2014    14.00 - 16.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 19.00     LD Ottica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO)  }
+{ 11/12/2014    14.00 - 16.00     Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.30 - 16.30     Aula 2B (Facoltà di Ingegneria, Mesiano)  }
+{ 11/12/2014    11.30 - 13.30     Aula 2Q (Facoltà di Ingegneria, Mesiano)  }
+{ 09/12/2014    15.00 - 17.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 13.00     LD Elettronica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO)  }
+{ 10/12/2014    14.00 - 18.00              }
+{ 12/12/2014    14.00 - 18.00              }
+{ 09/12/2014    11.00 - 13.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    15.00 - 17.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 12.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00              }
+{ 09/12/2014    09.00 - 11.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A219 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    12.00 - 14.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    17.00 - 19.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    15.00 - 17.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    13.00 - 15.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 14.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    10.00 - 12.00     Aula A205 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    14.00 - 16.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    14.00 - 16.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A205 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    13.00 - 15.00     Aula 1A (Facoltà di Economia, via Inama 5)  }
+{ 11/12/2014    08.30 - 10.30     Aula 1A (Facoltà di Economia, via Inama 5)  }
+{ 09/12/2014    17.00 - 19.00     Aula 1A (Facoltà di Economia, via Inama 5)  }
+{ 09/12/2014    09.00 - 11.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    13.00 - 15.00     Aula A205 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    13.00 - 15.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    10.30 - 12.30     Aula 1A (Facoltà di Economia, via Inama 5)  }
+{ 11/12/2014    10.30 - 12.30     Aula 1A (Facoltà di Economia, via Inama 5)  }
+{ 09/12/2014    15.00 - 17.00     Aula 1A (Facoltà di Economia, via Inama 5)  }
+{ 11/12/2014    13.00 - 15.00     Aula 1A (Facoltà di Economia, via Inama 5)  }
+{ 09/12/2014    09.00 - 11.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 12.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    17.00 - 19.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    17.00 - 19.00     Aula Azzurra (Facoltà di Economia, via Inama 5)  }
+{ 10/12/2014    17.00 - 19.00     Aula Azzurra (Facoltà di Economia, via Inama 5)  }
+{ 11/12/2014    15.00 - 17.00     Aula Azzurra (Facoltà di Economia, via Inama 5)  }
+{ 10/12/2014    10.30 - 11.30     Aula 2A (Facoltà di Economia, via Inama 5)  }
+{ 12/12/2014    10.30 - 12.30     Aula Rossa (Facoltà di Economia, via Inama 5)  }
+{ 11/12/2014    13.00 - 15.00     Aula Rossa (Facoltà di Economia, via Inama 5)  }
+{ 12/12/2014    08.30 - 10.30     Aula Rossa (Facoltà di Economia, via Inama 5)  }
+{ 11/12/2014    08.30 - 10.30     Aula Rossa (Facoltà di Economia, via Inama 5)  }
+{ 09/12/2014    15.00 - 18.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 12.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    14.00 - 17.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 17.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 12.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 12.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    14.00 - 16.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    12.00 - 14.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    12.00 - 14.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 17.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    15.00 - 18.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    16.00 - 18.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 14.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 14.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 14.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    16.00 - 18.00     Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    14.00 - 17.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    16.00 - 18.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 14.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 17.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    14.00 - 16.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    14.00 - 16.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 14.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 14.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 14.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 17.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    16.00 - 18.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    16.00 - 18.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    14.00 - 16.00     Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 12.00     Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 14.00     Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    17.00 - 19.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    16.00 - 18.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 17.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 14.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 13.00     Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    13.00 - 16.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    12.00 - 14.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 13.00     LD Meccanica (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    14.00 - 18.00     LD Meccanica (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 14.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    13.00 - 15.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    12.00 - 14.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 18.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 12.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 12.00     Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    15.00 - 17.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 14.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A219 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 12.00     Aula A219 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    10.00 - 13.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 14.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 17.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 18.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    12.00 - 14.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    18.00 - 20.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    12.00 - 15.00     Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    16.00 - 19.00     Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    18.00 - 20.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    17.00 - 20.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 12.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    12.00 - 14.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 18.00     Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 14.00     Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    13.00 - 16.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 12.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 14.00     Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    15.00 - 17.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 12.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 18.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 12.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 12.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    15.00 - 18.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 12.00     Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    18.00 - 20.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    12.00 - 15.00     Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 14.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    12.00 - 14.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 12.00     Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 12.00     Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 14.00     Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    12.00 - 14.00     Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 12.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    12.00 - 14.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    15.00 - 18.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    15.00 - 18.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    12.00 - 14.00     Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 12.00     Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    13.00 - 16.00     Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 12.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 10.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    16.00 - 19.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    15.00 - 17.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    10.00 - 12.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 10.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    14.00 - 16.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    12.00 - 13.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    14.00 - 16.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    12.00 - 13.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    11.00 - 13.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 14.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 17.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    13.00 - 14.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    16.00 - 19.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 17.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    09.00 - 11.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 16.00     Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A213 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 10.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    14.00 - 18.00     LD PED 1 (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO)  }
+{ 11/12/2014    14.00 - 18.00     LD PED 1 (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO)  }
+{ 09/12/2014    09.00 - 10.00     Aula A213 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    12.00 - 15.00     Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    13.00 - 15.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    11.00 - 13.00     Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    15.00 - 17.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    13.00 - 14.00     Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    16.00 - 18.00     Aula  B103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    14.00 - 16.00     Aula  B103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    16.00 - 18.00     Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    09.00 - 11.00     Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    09.00 - 11.00     Aula A213 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 12.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    11.00 - 13.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    10.00 - 11.00     Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    10.00 - 13.00     Aula  B103 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    10.00 - 13.00     Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    15.00 - 17.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    09.00 - 11.00     Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    11.00 - 13.00     Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    14.00 - 17.00     Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 10/12/2014    13.00 - 14.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    15.00 - 17.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 11/12/2014    14.00 - 16.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 12/12/2014    13.00 - 14.00     Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari)  }
+{ 09/12/2014    17.30 - 19.30     Aula 2C (Facoltà di Ingegneria, Mesiano)  }

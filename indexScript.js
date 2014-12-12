@@ -17,6 +17,10 @@ function showElemento(elemento){
     $("#corpoPrincipale").load("piani/"+nome+".html");
 }
 
+function cercaAula(luogo, aula){
+    $("#corpoPrincipale").load("piani/"+luogo+"/"+aula+".html");
+}
+
 function toAula(elemento, aula){
     var luogo = elemento[0].getAttribute("id");
     var nomeAula = aula.getAttribute("id");
@@ -25,18 +29,20 @@ function toAula(elemento, aula){
 
 function ricercaAula(aula){
     var nomeAula = aula.value;
+    var edificio;
     var piano;
-    alert(nomeAula);
-    var car = nomeAula.charAt(0);
-    if(car == "A") piano="dipartimento1_ed2";
-    else if(car == "B") piano="dipartimento1_ed1";
     
-    var car2 = nomeAula.charAt(1);
-    if(car2 == 1) piano+="_piano1";
-    else if(car2 == 2) piano+="_piano2";
-    alert(piano);
+    if(nomeAula[0] == 'A') {
+        edificio = "dipartimento1_ed1_";
+    } else if(nomeAula[0] == 'B') {
+        edificio = "dipartimento1_ed2_";
+    }
     
-    $("#corpoPrincipale").load("piani/"+piano+"/"+nomeAula+".html");
+    if((nomeAula != 'Aula Studio 1°piano') || (nomeAula != 'Aula Studio 2°piano') || (nomeAula !='Aula PC 2°piano')) {
+        piano = nomeAula[1];
+    }
+    
+    $("#corpoPrincipale").load("piani/"+edificio+"piano"+piano+"/"+nomeAula+".html");
 }
 
 function displayMenu(){
@@ -56,7 +62,10 @@ function polyHover(elem){
 }
 
 function polyHoverOut(elem){
-    elem.style.fill = "#f5d60f";
+    if (elem!==null)
+    {
+        elem.style.fill = "#f5d60f";
+    }
 }
 
 function main(){
