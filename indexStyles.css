@@ -2,6 +2,10 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+body{
+    overflow: hidden;
+}
+
 html{
     background-image: url(img/dipartimento1.jpg);   
 }
@@ -50,23 +54,20 @@ outline: none;
 #scrittaHome{
     cursor: pointer;
     color: white;
-    margin-left: 5px;
     position: relative;
-    top: -5px;
-    font-size: 25px;
-}
-
-#menuimg:hover{
-    cursor: pointer;
-    transform: scale(1.2);
-    /*font-weight: bold;*/  
-    -webkit-transition-duration: 0.3s;
-    -moz-transition-duration: 0.3s;
-    -ms-transition-duration: 0.3s;
+    top: -8px;
+    font-size: 20px;
 }
 
 #menu:hover{
     cursor: pointer;
+    
+    transform: scale(1.2) translate(5px);
+    font-weight: bold;
+    
+    -webkit-transition-duration:0.3s;
+    -moz-transition-duration:0.3s;
+    -ms-transition-duration:0.3s;
 }
 
 #barraUsername{
@@ -101,7 +102,12 @@ outline: none;
     -ms-transition-duration: 0.3s;
 }
 
-
+#ric:hover{
+    transform: scale(1.2);
+    -webkit-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+}
 
 #barraLateraleRicerca{
     margin: 20px;
@@ -147,18 +153,23 @@ outline: none;
     -ms-transition-duration: 0.1s;
 }
 
-/*#barraLateraleTreeButton:hover{
-    //box-shadow:0 0 1px  black;
+#barraLateraleTreeButton:hover{
+    box-shadow:0 0 1px  black;
     font-size: 1.2em;
     -webkit-transition-duration: 0.1s;
     -moz-transition-duration: 0.1s;
     -ms-transition-duration: 0.1s;
-}*/
+}
 
 #logoIniziale{
-    position: relative;
+    position: absolute;
     width: 40%;
-    left: 30%;
+    left: 50%;
+}
+#logoIniziale2{
+    position: absolute;
+    width: 40%;
+    bottom: 35%;
 }
 
 #corpoPrincipale{

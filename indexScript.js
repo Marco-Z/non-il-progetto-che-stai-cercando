@@ -1,4 +1,3 @@
-
 function show(padre){
     if (padre.offsetHeight>0){
         padre.style.display="none";
@@ -71,11 +70,6 @@ function polyHoverOut(elem){
     {
         elem.style.fill = "#f5d60f";
     }
-}
-
-function main(){
-    //recupera l'api key del nostro progetto da google developer console
-    gapi.client.setApiKey(AIzaSyBIz_F_ZMCu4A3liviIrBIUjMK4dk1nHUY);
 }
 
 function party() {
