@@ -2,12 +2,14 @@
 	font-family: 'Roboto', sans-serif;
 }
 
-body{
-    overflow: hidden;
+/* animazione: Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {left: -200px;}
+    to {left: 0px;}
 }
-
-html{
-    background-image: url(img/dipartimento1.jpg);   
+@keyframes mymove {
+    from {left: -200px;}
+    to {left: 0px;}
 }
 
 :focus{
@@ -30,85 +32,6 @@ outline: none;
     overflow-y: auto;
 }
 
-/* animazione: Chrome, Safari, Opera */
-@-webkit-keyframes mymove {
-    from {left: -200px;}
-    to {left: 0px;}
-}
-@keyframes mymove {
-    from {left: -200px;}
-    to {left: 0px;}
-}
-
-#menu{
-    font-weight: 700;
-    width: 150px;
-    color: #646464;
-}
-
-#menu a button{
-    background-color: inherit;
-    border: none;
-}
-
-#scrittaHome{
-    cursor: pointer;
-    color: white;
-    position: relative;
-    top: -8px;
-    font-size: 20px;
-}
-
-#menu:hover{
-    cursor: pointer;
-    
-    transform: scale(1.2) translate(5px);
-    font-weight: bold;
-    
-    -webkit-transition-duration:0.3s;
-    -moz-transition-duration:0.3s;
-    -ms-transition-duration:0.3s;
-}
-
-#barraUsername{
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background-image: linear-gradient(to bottom, #ffb642, #f4981b);   
-    height: 35px;
-    padding: 15px;
-    border: 0;
-    box-shadow:0 0 15px #000;
-    //-webkit-box-shadow: 0px 3px 26px 0px #A09E9E;
-}
-
-#logo{
-    cursor: help;
-    position: fixed;
-    right: 10px;
-    top: 8px;
-}
-
-#logo:hover{
-    transform: scale(1.15);
-    animation-direction: reverse;
-     
-    -moz-animation-direction: reverse;
-    -ms-animation-direction: reverse;
-    -webkit-animation-direction: reverse;
-    -webkit-transition-duration: 0.3s;
-    -moz-transition-duration: 0.3s;
-    -ms-transition-duration: 0.3s;
-}
-
-#ric:hover{
-    transform: scale(1.2);
-    -webkit-transition-duration: 0.3s;
-    -ms-transition-duration: 0.3s;
-    -moz-transition-duration: 0.3s;
-}
-
 #barraLateraleRicerca{
     margin: 20px;
     width: 230px;
@@ -125,35 +48,20 @@ outline: none;
     padding-left: 10px;
 }
 
-.dipartimento{
-    padding: 0 20px;
-    display: none;
-}
-
-.edificio{
-    padding-left: 20px;
-    display: none;
-}
-
-.piano{
-    padding-left: 20px;
-}
-
-#barraLateraleTreeButton{
+.barraLateraleTreeButton{
     background-color: transparent;
     height: 50px;
     border: 0;
     width: 100%;
     text-align: left;
     color:#3E3E3E;
-    font-size: 1em;
     font-weight:700;
     -webkit-transition-duration: 0.1s;
     -moz-transition-duration: 0.1s;
     -ms-transition-duration: 0.1s;
 }
 
-#barraLateraleTreeButton:hover{
+.barraLateraleTreeButton:hover{
     box-shadow:0 0 1px  black;
     font-size: 1.2em;
     -webkit-transition-duration: 0.1s;
@@ -161,28 +69,35 @@ outline: none;
     -ms-transition-duration: 0.1s;
 }
 
-#logoIniziale{
-    position: absolute;
-    width: 40%;
-    left: 50%;
-}
-#logoIniziale2{
-    position: absolute;
-    width: 40%;
-    bottom: 35%;
+#barraUsername{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(to bottom, #ffb642, #f4981b);   
+    height: 35px;
+    padding: 15px;
+    border: 0;
+    box-shadow:0 0 15px #000;
+    //-webkit-box-shadow: 0px 3px 26px 0px #A09E9E;
 }
 
-#corpoPrincipale{
+body{
+    overflow: hidden;
+}
+
+#corpoAula
+{
+    padding-left: 60px;
+    text-align: center;
     position: absolute;
-    top: 65px;
-    left: 270px;
+    top: 0px;
+    left: 0px;
     right: 0;
     bottom: 0;
     overflow: auto;
-    background-image: url(img/dipartimento1.jpg);
-    WebkitTransition = '0, 500ms ease-out';
     background-size: cover;
-    padding: 30px;
+    padding: 50px;
 }
 
 #corpoDipartimento{
@@ -193,7 +108,7 @@ outline: none;
     bottom: 0;
     overflow: auto;
     background-image: url(img/dipartimento1.jpg);
-    WebkitTransition = '0, 500ms ease-out';
+    -webkit-transition = '0, 500ms ease-out';
     padding: 30px;
     background-size: cover;
     padding: 50px;
@@ -216,7 +131,7 @@ outline: none;
     bottom: 0;
     overflow: auto;
     background-image: url(img/dipartimento1.jpg);
-    WebkitTransition = '0, 500ms ease-out';
+    -webkit-transition = '0, 500ms ease-out';
     padding: 30px;
     background-size: cover;
     padding: 50px;
@@ -241,51 +156,33 @@ outline: none;
     padding: 50px;
 }
 
-#corpoAula
-{
-    padding-left: 60px;
-    text-align: center;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0;
-    bottom: 0;
-    overflow: auto;
-    background-size: cover;
-    padding: 50px;
-}
-
-#mappaNomi{
-    position: absolute;
-    top: 1;
-    left: 101;
-}
-
-#mappa{
-    position: absolute;
-    top: 1;
-    left: 101;
-}
-
 #corpoPiano svg{
     position: absolute;
     top: 1;
     left: 101;
 }
 
-#svgColor polygon
-{
-    fill: #f5d60f;
-    stroke: black;
+#corpoPrincipale{
+    position: absolute;
+    top: 65px;
+    left: 270px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    background-image: url(img/dipartimento1.jpg);
+    -webkit-transition = '0, 500ms ease-out';
+    background-size: cover;
+    padding: 30px;
 }
 
-#svgClick polygon{
-    fill: transparent;
+.dipartimento{
+    padding: 0 20px;
+    display: none;
 }
 
-#titolo{
-    margin: 0;
-    padding: 0;
+.edificio{
+    padding-left: 20px;
+    display: none;
 }
 
 #goBack{
@@ -304,39 +201,130 @@ outline: none;
     border-top-right-radius: 12;
 }
 
-#tabella{
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-spacing: 0px;
+html{
+    background-image: url(img/dipartimento1.jpg);   
 }
 
-.celleG{
-    width: 50px;
-    border-spacing: 0px;
-    border-style: double;
-    padding-left: 5px;
-    padding-right: 5px;
-    height: 30px;
-    background-color: lightgray;
+#libero
+{
+    background-color: #5ec9c5;
+    width: 20;
+    height: 20;
+    padding: 5;
+    box-shadow: 0 0 5px #000;
 }
 
-.celleO{
-    width: 50px;
-    border-style: double;
-    height: 30px;
+#logo{
+    cursor: help;
+    position: fixed;
+    right: 10px;
+    top: 8px;
+}
+
+#logo:hover{
+    transform: scale(1.15);
+    animation-direction: reverse;
+     
+    -moz-animation-direction: reverse;
+    -ms-animation-direction: reverse;
+    -webkit-animation-direction: reverse;
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+}
+
+#logoIniziale{
+    position: absolute;
+    width: 40%;
+    left: 50%;
+}
+
+#logoIniziale2{
+    position: absolute;
+    width: 40%;
+    bottom: 35%;
+}
+
+#mappa{
+    position: absolute;
+    top: 1;
+    left: 101;
+}
+
+#mappaNomi{
+    position: absolute;
+    top: 1;
+    left: 101;
+}
+
+#menu{
+    font-weight: 700;
+    width: 150px;
+    color: #646464;
+}
+
+#menu a button{
+    background-color: inherit;
+    border: none;
+}
+
+#menu:hover{
+    cursor: pointer;
     
-    padding-left: 5px;
-    padding-right: 5px;
-    background-color: lightgray;
+    transform: scale(1.2) translate(5px);
+    font-weight: bold;
+    
+    -webkit-transition-duration:0.3s;
+    -moz-transition-duration:0.3s;
+    -ms-transition-duration:0.3s;
 }
 
-.celle{
-    width: 50px;
-    border-spacing: 0px;
-    border-style: double;
-    border-width: 1px;
-    padding-left: 5px;
-    padding-right: 5px;
-    height: 30px;
+#occupato
+{
+    background-color: #fa902d;
+    width: 20;
+    height: 20;
+    padding: 5;
+    box-shadow: 0 0 5px #000;
+    border: 1px solid transparent;
+}
+
+.piano{
+    padding-left: 20px;
+}
+
+#ric:hover{
+    transform: scale(1.2);
+    -webkit-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+}
+
+#scrittaHome{
+    cursor: pointer;
+    color: white;
+    position: relative;
+    top: -8px;
+    font-size: 20px;
+}
+
+#svgClick polygon{
+    fill: transparent;
+}
+
+#svgColor polygon
+{
+    fill: #f5d60f;
+    stroke: black;
+}
+
+#tabLegenda
+{
+    position: relative;
+    left: 90;
+}
+
+#titolo{
+    margin: 0;
+    padding: 0;
 }
