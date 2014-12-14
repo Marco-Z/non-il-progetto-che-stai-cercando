@@ -1,29 +1,26 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title >'NdoStudio?</title>
+        <title >ndo Studio</title>
         <link href="indexStyles.css" rel="stylesheet">
-        <link href="output.html" id="output">
-        <link href="jquery-ui.min.css" rel="stylesheet">
-        <link href="http://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
-        <link rel="icon" href="img/favicon.ico" >
-        <script src="data.js"></script>
+        <script src="indexScript.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
         <script src="mobile.js"></script>
-        <script src="indexScript.js"></script>
+        <link href="jquery-ui.min.css" rel="stylesheet">
+        <link href="http://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
+        <link rel="icon" href="img/favicon.ico" >
         <meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0">
     </head>
-    
-    <body> 
+    <body>
         <div id="corpoPrincipale">
             <div>
                 <img src="img/logo_unitn.png" width="200px" id="logoIniziale" style="padding-top: 30px;">
-                <img src="img/bannertit.png" width="200px" id="logoIniziale2" style="padding-top: 30px;">
+                <img src="img/bannertit.png" width="200px" id="logoIniziale2" style="padding-top: 30px">
             </div>
         </div>
-        
+
         <div id="barraLaterale">
             <div id="barraLateraleRicerca">
                 <a onclick="ricercaAula(ricerca)">
@@ -31,7 +28,7 @@
                 </a>
                 <input type="text" id="ricerca" autofocus placeholder="Cerca l'aula" onkeypress="invio(event)">
                <script>
-                   $(document).ready(function() {
+                   $(function() {
                     var availableTags = [
                        "Aula Studio 1°piano"   ,
                        "Aula Studio 2°piano"  ,
@@ -75,51 +72,49 @@
                     });
                 </script>
             </div>
-            
-            
+
+
             <div id="barraLateraleTree">
-                <div id="Povo">
-                    <button class="barraLateraleTreeButton" onclick="show(dipartimento1); showElemento(dipartimento1)">Povo</button>
 
-                    <div class="dipartimento" id="dipartimento1">
-                        <button id="dip" class="barraLateraleTreeButton" onclick="show(dipartimento1_ed1)">Povo 1</button>
+                <button id="barraLateraleTreeButton" onclick="show(dipartimento1); showElemento(dipartimento1)">Povo</button>
 
-                        <div class="edificio" id="dipartimento1_ed1">
+                <div class="dipartimento" id="dipartimento1">
+                    <button id="barraLateraleTreeButton" onclick="show(dipartimento1_ed1); showElemento(dipartimento1_ed1)">Povo 1</button>
 
-                            <div class="piano" id="dipartimento1_ed1_piano1">
-                                <button class="barraLateraleTreeButton">Piano 1</button>
-                            </div>
+                    <div class="edificio" id="dipartimento1_ed1">
 
-                            <div class="piano" id="dipartimento1_ed1_piano2">
-                                <button class="barraLateraleTreeButton">Piano 2</button>
-                            </div>
+                        <div class="piano" id="dipartimento1_ed1_piano1">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed1_piano1)">Piano 1</button>
                         </div>
 
-                        <button id="dip" class="barraLateraleTreeButton" onclick="show(dipartimento1_ed2)">Povo 2</button>
-                        <div class="edificio" id="dipartimento1_ed2">    
+                        <div class="piano" id="dipartimento1_ed1_piano2">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed1_piano2)">Piano 2</button>
+                        </div>
+                    </div>
 
-                            <div class="piano" id="dipartimento1_ed2_piano1">
-                                <button class="barraLateraleTreeButton">Piano 1</button>
-                            </div>
+                    <button id="barraLateraleTreeButton" onclick="show(dipartimento1_ed2); showElemento(dipartimento1_ed2)">Povo 2</button>
+                    <div class="edificio" id="dipartimento1_ed2">    
 
-                            <div class="piano" id="dipartimento1_ed2_piano2">
-                                <button class="barraLateraleTreeButton">Piano 2</button>
-                            </div>
+                        <div class="piano" id="dipartimento1_ed2_piano1">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed2_piano1)">Piano 1</button>
+                        </div>
+
+                        <div class="piano" id="dipartimento1_ed2_piano2">
+                            <button id="barraLateraleTreeButton" onclick="showElemento(dipartimento1_ed2_piano2)">Piano 2</button>
                         </div>
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
+
         <div id="barraUsername">
             <div id="menu" onclick="displayMenu()">
                 <a><img id="menuimg" src="img/menu_white.png" width="30px">
                 <button id="scrittaHome">Menu</button></a>
             </div>
-            <script src="doge.js" type="text/javascript"></script>
+             <script src="doge.js" type="text/javascript"></script>
             <img id="logo" src="img/help.png" onclick="showGuida()" width="50" onmouseover="party();" onmouseout="controller.sellDoge();">
         </div>
-        
     </body>
 </html>
