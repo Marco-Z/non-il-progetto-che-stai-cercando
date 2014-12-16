@@ -1,0 +1,20 @@
+- what was your initial goal (in terms of development):
+Il nostro obiettivo iniziale era di creare una web-app che permettesse di trovare facilmente spazi dove studiare all’interno dell’università. Questi spazi dovevano comprendere sia le aule dell’università, sia le aule studio che la biblioteca. L’applicazione doveva restituire visivamente l’occupazione delle aule universitarie, distinguendo quelle in cui c’è lezione e quelle, invece, non occupate. Avrebbe dovuto anche comprendere un sistema di feedback da parte dell’utente sulla disponibilità di posti in un dato luogo, in modo da poter definire se in un'aula senza lezione ci fosse una quantità di gente eccessiva.
+- what you didn't manage to implement, and why (too complex, not enough resources, ...):
+Non siamo riusciti a implementare la funzione del feedback per mancanza di tempo, per difficoltà implementativa e perché ritenuta meno fondamentale rispetto ad altre funzioni. 
+La visualizzazione mobile non è finita, ma può essere completata abbastanza agevolmente.
+- why you put priority on the stories you did implement:
+Abbiamo ritenuto più importante implementare la funzione di eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 
+eccetera, 

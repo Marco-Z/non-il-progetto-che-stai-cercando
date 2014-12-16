@@ -112,6 +112,7 @@ body{
     padding: 30px;
     background-size: cover;
     padding: 50px;
+    text-align: center;
 }
 
 #corpoDipartimento img{
@@ -135,6 +136,7 @@ body{
     padding: 30px;
     background-size: cover;
     padding: 50px;
+    text-align: center;
 }
 
 #corpoEdificio img{
@@ -314,7 +316,7 @@ html{
 
 #svgColor polygon
 {
-    fill: #f5d60f;
+    fill: #5ec9c5;
     stroke: black;
 }
 

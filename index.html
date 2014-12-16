@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <title >'NdoStudio?</title>
         <link href="indexStyles.css" rel="stylesheet">
-        <link href="output.html" id="output">
+        <link href="output.txt" id="output">
         <link href="jquery-ui.min.css" rel="stylesheet">
         <link href="http://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
         <link rel="icon" href="img/favicon.ico" >
@@ -33,9 +33,6 @@
                <script>
                    $(document).ready(function() {
                     var availableTags = [
-                       "Aula Studio 1°piano"   ,
-                       "Aula Studio 2°piano"  ,
-                       "Aula PC 2°piano"   ,
                        "A101"   ,
                        "A102"   ,
                        "A103"   ,
@@ -67,7 +64,14 @@
                        "A221"   ,
                        "A222"   ,
                        "A223"   ,
-                       "A224"   
+                       "A224"   ,
+                       "B101"   ,
+                       "B102"   ,
+                       "B103"   ,
+                       "B104"   ,
+                       "B105"   ,
+                       "B106"   ,
+                       "B107"   
                         ];
                     $( "#ricerca" ).autocomplete({
                           source: availableTags
@@ -78,33 +82,31 @@
             
             
             <div id="barraLateraleTree">
-                <div id="Povo">
-                    <button class="barraLateraleTreeButton" onclick="show(dipartimento1); showElemento(dipartimento1)">Povo</button>
+                <button class="barraLateraleTreeButton" id="Povo" onclick="show(dipartimento1)">Povo</button>
+                
+                <div class="dipartimento" id="dipartimento1">
+                    <button id="dip" class="barraLateraleTreeButton" onclick="show(dipartimento1_ed1)">Povo 1</button>
 
-                    <div class="dipartimento" id="dipartimento1">
-                        <button id="dip" class="barraLateraleTreeButton" onclick="show(dipartimento1_ed1)">Povo 1</button>
+                    <div class="edificio" id="dipartimento1_ed1">
 
-                        <div class="edificio" id="dipartimento1_ed1">
-
-                            <div class="piano" id="dipartimento1_ed1_piano1">
-                                <button class="barraLateraleTreeButton">Piano 1</button>
-                            </div>
-
-                            <div class="piano" id="dipartimento1_ed1_piano2">
-                                <button class="barraLateraleTreeButton">Piano 2</button>
-                            </div>
+                        <div class="piano" id="dipartimento1_ed1_piano1">
+                            <button class="barraLateraleTreeButton">Piano 1</button>
                         </div>
 
-                        <button id="dip" class="barraLateraleTreeButton" onclick="show(dipartimento1_ed2)">Povo 2</button>
-                        <div class="edificio" id="dipartimento1_ed2">    
+                        <div class="piano" id="dipartimento1_ed1_piano2">
+                            <button class="barraLateraleTreeButton">Piano 2</button>
+                        </div>
+                    </div>
 
-                            <div class="piano" id="dipartimento1_ed2_piano1">
-                                <button class="barraLateraleTreeButton">Piano 1</button>
-                            </div>
+                    <button id="dip" class="barraLateraleTreeButton" onclick="show(dipartimento1_ed2)">Povo 2</button>
+                    <div class="edificio" id="dipartimento1_ed2">    
 
-                            <div class="piano" id="dipartimento1_ed2_piano2">
-                                <button class="barraLateraleTreeButton">Piano 2</button>
-                            </div>
+                        <div class="piano" id="dipartimento1_ed2_piano1">
+                            <button class="barraLateraleTreeButton">Piano 1</button>
+                        </div>
+
+                        <div class="piano" id="dipartimento1_ed2_piano2">
+                            <button class="barraLateraleTreeButton">Piano 2</button>
                         </div>
                     </div>
                 </div>

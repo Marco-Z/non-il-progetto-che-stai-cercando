@@ -22,9 +22,7 @@ body{
             margin: 1em 5%;
             width: auto;
             padding: 5%;
-            background-image: linear-gradient(to bottom, #ffda93 5%, #fff6e4);
-            /*
-            background-color: #fff;*/
+            background-color: #5ec9c5;
             text-align: center;
             box-shadow: 1px 1px 2px gray;
             overflow: hidden;

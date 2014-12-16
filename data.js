@@ -1,1741 +1,1866 @@
 var datiasdf = [
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A104" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A106" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A104" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A206" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A206" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A105" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A105" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A105" 
 },
 { 
-	data: "10/12/2014",
+	data: "15/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A206" 
 },
 { 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A206" 
 },
 { 
-	data: "10/12/2014",
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A206" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A106" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A105" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A105" 
 },
 { 
-	data: "11/12/2014",
+	data: "15/12/2014",
+	ora: "15.00 - 17.00",
+	aula: "A107" 
+},
+{ 
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A206" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A206" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "13.00 - 15.00",
+	aula: "A107" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "13.00 - 17.00",
-	aula: "LD Elettronica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO) " 
+	aula: "ettr" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 13.00",
-	aula: "LD Elettronica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO) " 
+	aula: "ettr" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A206" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "15.00 - 19.00",
-	aula: "LD Ottica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO) " 
+	aula: "tica" 
 },
 { 
-	data: "11/12/2014",
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A202" 
+},
+{ 
+	data: "18/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A202" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A224" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A203" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "14.30 - 16.30",
-	aula: "Aula 2B (Facoltà di Ingegneria, Mesiano) " 
+	aula: "2B (" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.30 - 13.30",
-	aula: "Aula 2Q (Facoltà di Ingegneria, Mesiano) " 
+	aula: "2Q (" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A210" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 13.00",
-	aula: "LD Elettronica (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO) " 
+	aula: "ettr" 
 },
 { 
-	data: "10/12/2014",
-	ora: "14.00 - 18.00",
-	aula: "        " 
+	data: "15/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A209" 
 },
 { 
-	data: "12/12/2014",
-	ora: "14.00 - 18.00",
-	aula: "        " 
-},
-{ 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 12.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "11/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "        " 
-},
-{ 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "10/12/2014",
+	data: "18/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A219" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A219 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "15/12/2014",
+	ora: "15.00 - 16.00",
+	aula: "A210" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "12.00 - 14.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "14.00 - 15.00",
+	aula: "A210" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "17.00 - 19.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A210" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "13.00 - 15.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A207" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A207" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 14.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A207" 
 },
 { 
-	data: "12/12/2014",
-	ora: "10.00 - 12.00",
-	aula: "Aula A205 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "19/12/2014",
+	ora: "10.00 - 14.00",
+	aula: "A102" 
 },
 { 
-	data: "10/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "15/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A205" 
 },
 { 
-	data: "10/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A104" 
 },
 { 
-	data: "12/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
+	data: "16/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A103" 
 },
 { 
-	data: "09/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A105" 
 },
 { 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "11/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "10/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "09/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
+	data: "15/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A205 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A103" 
 },
 { 
-	data: "10/12/2014",
+	data: "16/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A103" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A207" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A207" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A208" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A208" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A208" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A104" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A205" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "14.00 - 18.00",
+	aula: "imic" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 18.00",
+	aula: "imic" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "13.00 - 15.00",
-	aula: "Aula 1A (Facoltà di Economia, via Inama 5) " 
+	aula: "1A (" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "08.30 - 10.30",
-	aula: "Aula 1A (Facoltà di Economia, via Inama 5) " 
+	aula: "1A (" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "17.00 - 19.00",
-	aula: "Aula 1A (Facoltà di Economia, via Inama 5) " 
+	aula: "1A (" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "11.00 - 12.00",
+	aula: "A208" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A208" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A208" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A103" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A103" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A103" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "B106" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "13.00 - 15.00",
-	aula: "Aula A205 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A205" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "13.00 - 15.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A207" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "13.00 - 15.00",
+	aula: "1A (" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "10.30 - 12.30",
-	aula: "Aula 1A (Facoltà di Economia, via Inama 5) " 
+	aula: "1A (" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "10.30 - 12.30",
-	aula: "Aula 1A (Facoltà di Economia, via Inama 5) " 
+	aula: "1A (" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula 1A (Facoltà di Economia, via Inama 5) " 
+	aula: "1A (" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "13.00 - 15.00",
-	aula: "Aula 1A (Facoltà di Economia, via Inama 5) " 
+	aula: "1A (" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A104" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 12.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "17.00 - 19.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B107" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A104" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "17.00 - 19.00",
-	aula: "Aula Azzurra (Facoltà di Economia, via Inama 5) " 
+	aula: "Azzu" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "17.00 - 19.00",
-	aula: "Aula Azzurra (Facoltà di Economia, via Inama 5) " 
+	aula: "Azzu" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula Azzurra (Facoltà di Economia, via Inama 5) " 
+	aula: "Azzu" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "10.30 - 11.30",
-	aula: "Aula 2A (Facoltà di Economia, via Inama 5) " 
+	aula: "2A (" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "10.30 - 12.30",
-	aula: "Aula Rossa (Facoltà di Economia, via Inama 5) " 
+	aula: "Ross" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "13.00 - 15.00",
-	aula: "Aula Rossa (Facoltà di Economia, via Inama 5) " 
+	aula: "Ross" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "08.30 - 10.30",
-	aula: "Aula Rossa (Facoltà di Economia, via Inama 5) " 
+	aula: "Ross" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "08.30 - 10.30",
-	aula: "Aula Rossa (Facoltà di Economia, via Inama 5) " 
+	aula: "Ross" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "15.00 - 18.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B107" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 12.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B107" 
 },
 { 
-	data: "10/12/2014",
+	data: "15/12/2014",
 	ora: "14.00 - 17.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "11/12/2014",
+	data: "17/12/2014",
+	ora: "14.00 - 17.00",
+	aula: "B106" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A205" 
+},
+{ 
+	data: "18/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A207" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A108" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A108" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A103" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A103" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "09.00 - 12.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 12.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "12.00 - 14.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A204" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A204" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A204" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "12.00 - 14.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 17.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A103" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A103" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "15.00 - 18.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A102 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A102" 
 },
 { 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "16.00 - 18.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "16.00 - 18.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "16.00 - 18.00",
-	aula: "Aula A206 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
+	data: "15/12/2014",
 	ora: "14.00 - 17.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B107" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B107" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 14.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A201" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A201" 
 },
 { 
-	data: "11/12/2014",
+	data: "16/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "A204" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "A204" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A204" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A204" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A204" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A204" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A101" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A101" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A101" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A101" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A103" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A103" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A203" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A207" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A203" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A103" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A103" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A101" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A101" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A222" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A222" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A103" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "B106" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A206" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A207" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A212" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "14.00 - 17.00",
+	aula: "A222" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "14.00 - 17.00",
+	aula: "B107" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "B107" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "B106" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "B106" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "B106" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "B106" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "A222" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A201" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A201" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A205" 
+},
+{ 
+	data: "18/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A207" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A212" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A212" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 14.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A212" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 14.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A212" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 14.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 17.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A203" 
 },
 { 
-	data: "10/12/2014",
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A224" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "10/12/2014",
+	data: "15/12/2014",
+	ora: "15.00 - 17.00",
+	aula: "B103" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A212" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A204" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A208" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A204" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A208" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A203" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A204" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A204" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A215" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A203" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A107 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A107" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 12.00",
-	aula: "Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A218" 
 },
 { 
-	data: "10/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula pc A201 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "15/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A220" 
 },
 { 
-	data: "10/12/2014",
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A213" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A201" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A204" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A204" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "11.00 - 14.00",
-	aula: "Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A108" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
 	ora: "17.00 - 19.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A101" 
 },
 { 
-	data: "10/12/2014",
+	data: "16/12/2014",
+	ora: "17.00 - 19.00",
+	aula: "A101" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A105" 
 },
 { 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "16.00 - 18.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "14.00 - 17.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 13.00",
-	aula: "Aula pc B106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "13.00 - 16.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "15/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B107" 
 },
 { 
-	data: "09/12/2014",
-	ora: "16.00 - 18.00",
-	aula: "Aula A104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A105" 
 },
 { 
-	data: "10/12/2014",
-	ora: "12.00 - 14.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A104" 
 },
 { 
-	data: "11/12/2014",
+	data: "16/12/2014",
+	ora: "14.00 - 17.00",
+	aula: "A101" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "09.00 - 13.00",
-	aula: "LD Meccanica (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B106" 
 },
 { 
-	data: "12/12/2014",
-	ora: "14.00 - 18.00",
-	aula: "LD Meccanica (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "13.00 - 15.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "12.00 - 14.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "15.00 - 18.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
+	data: "15/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A104" 
 },
 { 
-	data: "10/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "16/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A105" 
 },
 { 
-	data: "11/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula  B107 (SALA CONFERENZE) (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "15.00 - 17.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A219 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A219 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "10.00 - 13.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "15.00 - 17.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A215 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A104" 
 },
 { 
-	data: "11/12/2014",
-	ora: "15.00 - 18.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "17/12/2014",
 	ora: "12.00 - 14.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B107" 
 },
 { 
-	data: "11/12/2014",
-	ora: "18.00 - 20.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "16/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "A106" 
 },
 { 
-	data: "12/12/2014",
-	ora: "12.00 - 15.00",
-	aula: "Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "15/12/2014",
+	ora: "14.00 - 17.00",
+	aula: "A106" 
 },
 { 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A207" 
 },
 { 
-	data: "12/12/2014",
+	data: "17/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A106" 
+},
+{ 
+	data: "15/12/2014",
 	ora: "16.00 - 19.00",
-	aula: "Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A104" 
 },
 { 
-	data: "09/12/2014",
+	data: "17/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A106" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A102" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "15.00 - 17.00",
+	aula: "A106" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A219" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A219" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A222" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "B104" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A224" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A215" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "B104" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "B104" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "B105" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "B105" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "16.00 - 19.00",
+	aula: "A202" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "18.00 - 20.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B104" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "17.00 - 20.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B105" 
 },
 { 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A207 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "12.00 - 14.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "15.00 - 18.00",
-	aula: "Aula A103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A106 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "16.00 - 18.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula pc A202 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "13.00 - 16.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula A101 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "15.00 - 17.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "15.00 - 18.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "15.00 - 18.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "11.00 - 13.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "18.00 - 20.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "12.00 - 15.00",
-	aula: "Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A212 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "12.00 - 14.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula  B105 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "11.00 - 14.00",
-	aula: "Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "12.00 - 14.00",
-	aula: "Aula A218 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula  B104 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "12.00 - 14.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
-	ora: "15.00 - 18.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "15.00 - 18.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "12.00 - 14.00",
-	aula: "Aula A223 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "09.00 - 12.00",
-	aula: "Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "13.00 - 16.00",
-	aula: "Aula A220 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "10/12/2014",
-	ora: "11.00 - 12.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
-	ora: "09.00 - 10.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
-	ora: "09.00 - 11.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "11/12/2014",
+	data: "15/12/2014",
 	ora: "16.00 - 19.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B104" 
 },
 { 
-	data: "12/12/2014",
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A202" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "B105" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "14.00 - 17.00",
+	aula: "A106" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A207" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A106" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "16.00 - 19.00",
+	aula: "A104" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "13.00 - 16.00",
+	aula: "B105" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "B105" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "B105" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A203" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "A101" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B104" 
 },
 { 
-	data: "09/12/2014",
+	data: "15/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A204" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A204" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A223" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "16.00 - 18.00",
+	aula: "A223" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A223" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A212" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "15.00 - 18.00",
+	aula: "A212" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A224" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "A218" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A218" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "15.00 - 18.00",
+	aula: "A212" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A212" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "B104" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "B105" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "15.00 - 17.00",
+	aula: "A219" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A218" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "11.00 - 14.00",
+	aula: "A218" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A218" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "B104" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A221" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "13.00 - 16.00",
+	aula: "A223" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "15.00 - 18.00",
+	aula: "A223" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A223" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "09.00 - 12.00",
+	aula: "A220" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A218" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "13.00 - 16.00",
+	aula: "A220" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A221" 
+},
+{ 
+	data: "17/12/2014",
+	ora: "11.00 - 12.00",
+	aula: "A209" 
+},
+{ 
+	data: "16/12/2014",
+	ora: "09.00 - 10.00",
+	aula: "A209" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "09.00 - 11.00",
+	aula: "A209" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "16.00 - 19.00",
+	aula: "A209" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "15.00 - 17.00",
+	aula: "A209" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "10.00 - 12.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 10.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "12.00 - 13.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "12.00 - 13.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 14.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 17.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A203" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "13.00 - 14.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "16.00 - 19.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 17.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula A208 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A208" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A204 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A204" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A213 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A213" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 10.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "14.00 - 18.00",
-	aula: "LD PED 1 (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO) " 
+	aula: "D 1 " 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "14.00 - 18.00",
-	aula: "LD PED 1 (Facoltà di Scienze Ed. Potenziamento su campo sportivo, via Sommarive 14  POVO) " 
+	aula: "D 1 " 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "09.00 - 10.00",
-	aula: "Aula A213 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A213" 
 },
 { 
-	data: "12/12/2014",
-	ora: "12.00 - 15.00",
-	aula: "Aula A210 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	data: "19/12/2014",
+	ora: "12.00 - 14.00",
+	aula: "A211" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "13.00 - 15.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A224" 
 },
 { 
-	data: "10/12/2014",
+	data: "15/12/2014",
+	ora: "13.00 - 15.00",
+	aula: "A221" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "13.00 - 14.00",
-	aula: "Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A224" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula  B103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B103" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "14.00 - 16.00",
-	aula: "Aula  B103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B103" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A203" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "16.00 - 18.00",
-	aula: "Aula A108 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A108" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A224" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A213 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A213" 
 },
 { 
-	data: "10/12/2014",
+	data: "15/12/2014",
+	ora: "11.00 - 13.00",
+	aula: "A209" 
+},
+{ 
+	data: "17/12/2014",
 	ora: "11.00 - 12.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "12/12/2014",
+	data: "19/12/2014",
 	ora: "10.00 - 11.00",
-	aula: "Aula A214 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A214" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "10.00 - 13.00",
-	aula: "Aula  B103 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "B103" 
 },
 { 
-	data: "11/12/2014",
+	data: "18/12/2014",
 	ora: "10.00 - 13.00",
-	aula: "Aula A203 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A203" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "09.00 - 11.00",
-	aula: "Aula A221 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
 	ora: "11.00 - 13.00",
-	aula: "Aula A224 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A224" 
 },
 { 
-	data: "10/12/2014",
+	data: "17/12/2014",
 	ora: "14.00 - 17.00",
-	aula: "Aula A222 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A222" 
 },
 { 
-	data: "10/12/2014",
-	ora: "13.00 - 14.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "09/12/2014",
+	data: "15/12/2014",
 	ora: "15.00 - 17.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A221" 
 },
 { 
-	data: "11/12/2014",
-	ora: "14.00 - 16.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
-},
-{ 
-	data: "12/12/2014",
+	data: "17/12/2014",
 	ora: "13.00 - 14.00",
-	aula: "Aula A209 (Polo Scientifico e Tecnologico Fabio Ferrari) " 
+	aula: "A209" 
 },
 { 
-	data: "09/12/2014",
+	data: "16/12/2014",
+	ora: "15.00 - 17.00",
+	aula: "A209" 
+},
+{ 
+	data: "18/12/2014",
+	ora: "14.00 - 16.00",
+	aula: "A209" 
+},
+{ 
+	data: "19/12/2014",
+	ora: "13.00 - 14.00",
+	aula: "A209" 
+},
+{ 
+	data: "15/12/2014",
+	ora: "14.30 - 16.30",
+	aula: "2C (" 
+},
+{ 
+	data: "16/12/2014",
 	ora: "17.30 - 19.30",
-	aula: "Aula 2C (Facoltà di Ingegneria, Mesiano) " 
-}
+	aula: "2C (" 
+}];
